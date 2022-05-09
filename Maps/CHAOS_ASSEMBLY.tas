@@ -1,4 +1,4 @@
-RecordCount: 1568
+RecordCount: 1765
 
 console load EndGameContest2021/1-Submissions/oknano
    1
@@ -38,6 +38,7 @@ console load EndGameContest2021/1-Submissions/oknano
   11,R
   19,D,X
 #maaaybe possible to downright from spring
+#looking at this again  probably not
    4,R
   15,D,C
    2,R
@@ -115,7 +116,6 @@ console load EndGameContest2021/1-Submissions/oknano
    3,R,J
   40
 
-
 #lvl_4
    4,R,J
    9,R,Z
@@ -167,12 +167,13 @@ console load EndGameContest2021/1-Submissions/oknano
   50,R,J
   14,R,X
    1,J
-   9,L
+   1,L,J
+   6,L
+   2,R
   10,L,D,X
-  11,R,J
-   5,R
-   5,R,J
+  21,R,J
   14,R,U,X
+
   15,U,C
   15,D,X
    1,J
@@ -250,7 +251,6 @@ console load EndGameContest2021/1-Submissions/oknano
    2,R,J
   40
 
-
 #lvl_6
    3,R,J
    3,R
@@ -314,7 +314,9 @@ console load EndGameContest2021/1-Submissions/oknano
    5,R
    2,R,J
    5,R
-  19,R,J
+  11,R,J
+   6,R
+   1,R,J
   10,R,U,X
   18,R,D,C
 
@@ -421,9 +423,15 @@ console load EndGameContest2021/1-Submissions/oknano
    5,R
    9,R,J
   12,R,U,X
-#manip like 0.06 X here
+#can you manip like 0.06 X here?
    1,R,J,G
    8,R
+#could save time maybe
+#  29,L,U,Z
+#  15,L,U,V
+#   1,R
+#   2,L,D
+#---------
   31,L,U,Z
   10,U,C
    9,L,X
@@ -431,14 +439,17 @@ console load EndGameContest2021/1-Submissions/oknano
   11,L,J
   26,L,D
   15,L,X
-   1,J
-   5
-  21,R
-  13,J
-   8,R,J
+   1,R,J
+   5,L
+  14,R
+  10,R,J
+  15,U,X
+   5,R
   20,R,X
   11,U,Z
   16,L,J
+
+#3102
   18,R,X
   13,L,D,C
   25,R,J
@@ -485,4 +496,4 @@ console load EndGameContest2021/1-Submissions/oknano
   13,R,Z
  135,R,G
 
-ChapterTime: 1:00.384(3552)
+ChapterTime: 1:00.350(3550)
