@@ -1,4 +1,4 @@
-RecordCount: 1765
+RecordCount: 2033
 
 console load EndGameContest2021/1-Submissions/oknano
    1
@@ -8,37 +8,38 @@ console load EndGameContest2021/1-Submissions/oknano
 
 #lvl_1
   10,R,Z
-   7,R,J
-   3,R
-   1,R,J,G
-   9,R
+   6,R,J
+   1,R
+   1,R,J
+   1,R
+   1,R,J
+   3,R,K,G
+   5,R
+   2,R,K
   15,D,X
-  15,R,Z
-  12,R,D,J
-   5,R,X
+  14,R,Z
+   1,R,J
+  11,R,U,X
    1,R,J,G
-  11,R
-   6
-   4,Z
+  17,R
    1,R,J
-   7,R
-   1,R,J
-   6,R
-  11,R,J,G
+   2,R
+  12,R,Z
+   2,R,J
+   1,J
+  10,R,U,X
   40
 
 #lvl_2
-  15,R,D
-   3,R,D
-   4,D
-   2,R,D
-  14,R,Z
+   1,L
+   1,L,K,G
+   4,R,K
+  19,R,D
+  13,R,Z
   15,R,X
   13,U,C
   11,R
   19,D,X
-#maaaybe possible to downright from spring
-#looking at this again  probably not
    4,R
   15,D,C
    2,R
@@ -46,37 +47,32 @@ console load EndGameContest2021/1-Submissions/oknano
    7,R,X
    1,R,J,G
    4,R
-  13,L
+  13
+   1,L,J
+  18
    1,J
-  19
-   7,R
-  10,J
-   2,R,J
-   1,J
+   3,R,J
+   2,J
    1,R,J
-   1,J
    1,R,J
-   1,J
+   1,K
+   6,R,K
+   5,R,K
+  10,R,K
+   3,R,J,G
+   4,R
+  14,R,D,X
    1,R,J
-   1,J
-   1,R,K
-  10,R,U,X
-   1,R,J,G
-  20,R,D
-   4,Z
-   5,R,J
-   1,R
+   9,R,D,X
   40
 
 #lvl_3
-   2,R
-   5
-   2,R
-   1,R
+   5,R
+   2,R,J
   15,D,X
-   6,R,D
-   4,R,J
-   9,R
+   7,R,D
+   6,R,J
+   7,R
   10,L,D,X
   25,R,J
   15,R,X
@@ -117,8 +113,8 @@ console load EndGameContest2021/1-Submissions/oknano
   40
 
 #lvl_4
-   4,R,J
-   9,R,Z
+   6,R,J
+   7,R,Z
    1,R,J
    8,R
    5,R,X
@@ -128,25 +124,35 @@ console load EndGameContest2021/1-Submissions/oknano
   17,R,D
    3,R
   12,R,X
-   8,R,Z
-   9,R,J
-   5,R
+   6,R,Z
    1,R,J
-   6,R
-  15,U,X
-  16,R
+   1,J
+   3,R,J
+   1,J
+   3,R,J
+   2,J
+   1,R
+   6
+   1,J
+  11,R,U,Z
+   8,L,K,G
+   5,R
+   2
    4,Z
    3,R,J
    9,L
-   3,L,D
-   2,L,D
+   5,L,D
   12,R,D
   15,R,X
    1,L,J
-  12,L
-  10,R
+  11,L
    1,R,J
-  12,L,J
+   2,J
+   4,R,J
+   1,J
+   8,K
+   2,R,K
+   2,K
   10,L,X
    5,R,J
    6,R
@@ -165,15 +171,17 @@ console load EndGameContest2021/1-Submissions/oknano
    1,R,J
    8,R
   50,R,J
-  14,R,X
-   1,J
-   1,L,J
-   6,L
-   2,R
-  10,L,D,X
-  21,R,J
-  14,R,U,X
-
+  18,R,X
+   2,R,J
+   1,R
+   3
+  10,L,Z
+   1,R,J
+   4,R
+   1,R,J
+  14,R
+   6,R,J
+   9,R,U,X
   15,U,C
   15,D,X
    1,J
@@ -495,5 +503,4 @@ console load EndGameContest2021/1-Submissions/oknano
   14,R,D
   13,R,Z
  135,R,G
-
-ChapterTime: 1:00.350(3550)
+ChapterTime: 0:59.772(3516)
