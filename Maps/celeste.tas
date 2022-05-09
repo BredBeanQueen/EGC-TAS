@@ -1,3 +1,6 @@
+
+
+
 console load EndGameContest2021/1-Submissions/Jan
    1
 
@@ -90,13 +93,12 @@ console load EndGameContest2021/1-Submissions/Jan
 
 #lvl_6
   16,J
-  14,U,X
-   3,R,J
+  13,U,X
+   4,R,J
   11
-#couldnt ultra with a 6f bhop, might work
-   5,R,D,X
+   6,R,D,X
    1,R,J
-   7,R
+   6,R
    2,R,J
    7,R,D,X
    4,R,J,G
@@ -104,20 +106,19 @@ console load EndGameContest2021/1-Submissions/Jan
    9,R,J
   47,R
   22,U,X
-   5,L
-   1,J
-   2,K,G
-   2,R,K
-  11,R,D,X
-   2,R,J
+   4,L
+   1,R,J
    4,R
+   9,R,D,X
+   1,R,J
+   6,R
   40
 
 #lvl_7
-   4,R
-   1,R,J
    1,R
-  22,D,X
+   1,R,J
+   4,R
+  23,D,X
   13,L,Z
    1,R,J
    1,R
@@ -192,18 +193,24 @@ console load EndGameContest2021/1-Submissions/Jan
    1,R,J
    1,R,K
    1,R,J
-  33,R,K
-  15,U,X
-  11,R,J
+  23,R,K
+  14,R,U,X
+   2,J,G
+   8,L,J,G
    3,K
-   3,J
-   3,K
-   3,J
+   2,J
    2,K
+   2,J
+   2,K
+   2,J
+   2,K
+   2,J
+   2,K
+   2,J
   40
 
 #lvl_A
-   1,R,K
+   1
    1,R,J,G
    1,R,K,G
    8,R
@@ -269,14 +276,16 @@ console load EndGameContest2021/1-Submissions/Jan
   19,U,X
   15,R,Z
   12,R
-  65,U,X
+  55,U,X
+  14,U,C
   40
 
 #lvl_D
-  11
-  14,L,D,X
+  10,L
+   1,L,J,G
+  14,L,D,C
    1,L,J
-  13,L,D,X
+  10,L,D,X
    5,L,J
    5,L,D,X
    2,L,J,G
@@ -305,12 +314,12 @@ console load EndGameContest2021/1-Submissions/Jan
    3,L,J
   13,L
    9,L,J
-   5,L
-   3,L,J
-  11,L
+   2,L
+   6,L,J
+  12,L
   15,L,Z
-   7,L
-   2
+   5,L
+   1,L,J
   14,L,Z
    1,L,J
   18,L,D,X
@@ -325,4 +334,5 @@ repeat 4
   22,L,Z
   91,D,C
   49,X
-ChapterTime: 0:44.047(2591)
+ChapterTime: 0:43.877(2581)
+
