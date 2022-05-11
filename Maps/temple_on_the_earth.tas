@@ -1,5 +1,5 @@
 #by Topaz
-RecordCount: 1739
+RecordCount: 1868
 
 console load EndGameContest2021/1-Submissions/Appels
    1
@@ -87,18 +87,29 @@ console load EndGameContest2021/1-Submissions/Appels
    9,L,U,X
   11
    5,U,X
-  23,L,J
-  14,U,X
-  18,R,J
-  11,K,G
-   1,L,K
-  12,L,J,G
-  45,L,G
+  10,L,J
    1
-  35,J
-  11,G
-  42,R,J
-  11
+   1,L
+  15,L,U,X
+   3
+  12,J,G
+   1,K
+   2,J,G
+  14,R,J,G
+  12,R,K,G
+   6,J,G
+   1,L,J,G
+   1,K
+  11,L,K
+  12,L,J,G
+   5,L,K,G
+  31,K
+   4,D
+  14,J
+   3,R,J
+   1,K
+  41,R,K
+  12
    5,R,X
    8,R,J
    1,R,K,G
@@ -154,35 +165,41 @@ console load EndGameContest2021/1-Submissions/Appels
    1
    2,R,J
    4,J
-  27,R,J
-  14,U,X
+   4,R,J
+  11,R
+  14,R,U,Z
+   1
    1,L
-   1,J,G
-   1,R,J
-   1,L,K,G
    1,L,J,G
-   6,J
-   3,L,J
-  11,K,G
+   5,L,K,G
+ 
+   1,L,J,G
+   2,R,J,G
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   3,J
+   1,L,K,G
+  13,K
   13,D,X
   26,R,J
-   9
-   8,D
-   6,L,D
-   3,L
-  15,G
-  15,R,J
-   8,J
-  13,R,J
-   1,R,K,G
+   1,R
+  15
+   9,L,D
+  10,G
+   1,R,J
+  27,R,K
    1,R,J,G
-   5,R
-  13
-   5,D
-  15,U,X
-  20,J
-   3,L,J
-  61,G
+   1,R,K,G
+  12,R
+   8,D,X
+   8,L,J,G
+   1,K
+  12,R,K
+   1,L,J,G
+  28,L,D,G
+  42,L,G
    8,R,J
   19,R
    5
@@ -190,7 +207,7 @@ console load EndGameContest2021/1-Submissions/Appels
    1,J
    1,L,K,G
    1,R,K
-  23,R
+  22,R
   15,U,Z
    9,R
   15,R,Z
@@ -433,13 +450,12 @@ console load EndGameContest2021/1-Submissions/Appels
   35,D,O
    8
   18,D,X
-   1,J
+   9,R,U,Z
    1,L,J,G
-   3,K
-  22,R,J
+  17,R,J,G
   38,L,U,X
   10,U,C
    3
   15,R,D,X
   79
-ChapterTime: 1:06.232(3896)
+ChapterTime: 1:05.484(3852)
