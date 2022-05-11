@@ -1,4 +1,4 @@
-RecordCount: 1448
+RecordCount: 2424
 
 console load EndGameContest2021/1-Submissions/moladan
    1
@@ -16,24 +16,29 @@ console load EndGameContest2021/1-Submissions/moladan
    7,D
    4,R,J
   15,R,Z
-   8,R
-   6,R,J
-   6,K,G
+
    7,R
-   5,R,Z
-   2,R,J
-   8,R
+   1,L
+   9,J,G
    1,R,J
-   5,R,D,X
+   1,R
+   1,R,K,G
+   7,R
+   7,R,Z
+   1,R,J
+   5,R
+   1
+   1,R,J
+   6,R,D,X
   40
 
 #lvl_a01
-   9,R
-   1,R,J
    8,R,D,X
    1,R,J
+   9,R,D,X
+   1,R,J
    7,R
-  20,R,J
+  19,R,J
   13,U,X
    5,L,J
    1,L,K,G
@@ -45,9 +50,10 @@ console load EndGameContest2021/1-Submissions/moladan
    1,L,J
    1,R,J
    1,L,J
-   3,J
-   5,L
-   5,R
+   2,J
+   6,L
+   1
+   3,R
    2
    1,R
    1
@@ -58,164 +64,205 @@ console load EndGameContest2021/1-Submissions/moladan
    1,R
    1
    2,J
-  16,D
-   4,L,D
-  18,D
-   5,R,D
+ 
+  20,L,D
+   2,D
+   1,L,D
+   7,D
+  14,R,D
+  15,R,Z
    2,R
-  18,R,Z
-  10,U,C
+  10,U,Z
    4,J
-  18,R,J
+  17,R,J
+   1,J
    5,R,G
    1,R,J,G
    5,L,J
    3,J
    3,R,J
-   3,R,K,G
-  10,R
+   4,R,K,G
+   8,R
   14,R,Z
   10,R,J
    1,J
-   7,R,J
-   2,R
-   1,R,K,G
-   8,R,D
-   1,L,D
+   2,R,J
+   7,R
+   3,R,J,G
+   3,R
+   2
   15,R,D,X
-  16,L,D
+  17,L,D
   14,L,D,X
-   2,L,J
+   1,L,J
+   8,L
   15,L,D,X
-  17,L
-  10,L,D
-  42,R
+  19,L
+  42,R,D
   15,R,X
-  12,R
+  11,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
-   8,R,D,X
-   1,R,J
+   7,R,D,X
+   2,R,J
   40
 
 #lvl_a02
-   6,R,J
-  30,R,D
-  13,R,X
-   3,R,J,G
-   1,R
-   6,R,J
-  15,L
-  18,L,D
-  10,L,Z
-   6,R,J
-   3,R
-   7,R,U,X
-   6,R,J,G
-   1,R
-   7,R,J
-  14,R,K,G
-  16,U,X
-  21,R,J
-   3,R,K,G
-  12,R
-   9,R,Z
-   1,L,J
-   1
-   5,L
-   6,L,J
-   1,L
-   3,L,J
-   4,L,K,G
-   4,L
-  25,R,D
-  15,R,X
-   6,R,D
-  22,D
-  12,L,D
-   1,L,J
-  48,L,D
-  11,L,X
-   1,L,J,G
-  10,L
-  20,D,X
-   1,R,D
-   8,R
-  17,R,X
+   5,R,J
+   5,R,D
+   2,R,J
+  17,R,D
    2
+   5,R,D
+  11,R,X
+   2,R,J,G
+   5,R
+   1,J
+   7
+  18,R,D
+  10,R,U,Z
+   3,L,J,G
+  31
+   1
+   6,D,X
+   1,R
+   1
+   1,R
+   6
+  10,R
+  15,U,X
+   1,R
+   1,J,G
+   5,R
+   5,L
+  10,R
+  10,R,D
+   2,R
+   1,R,D
+   1,R,J,G
+   4,R,K,G
+   9,R
+   1,R,K
+  17,R,D
+   6,D
+   1,R,D
+  15,L,D,X
+  30,L,D
+   4,D
+   9,L,X
+   1,L,J,G
+   5
+   5,L
+  15,D,X
+  12,R,D
+   2,R,D
+  15,R,X
    3,R
-  19,R,C
+  18,R,X
+   4,R
   14,R,Z
    2,R,J
   14,R,D,X
    1,R,J
-   7,R,D,X
+   6,R,D,X
    1,R,J
+   1,R
   40
 
 #lvl_a03
-   7,R
-   3,R,D,J
-  15,L,D,J
-   1,L,K,G
-   1,L,J,G
-   1,J
-   6,R,J
-   1,L,K,G
-   2,R,K
-  20,K
-  17
-  18,U,X
-   7,R,C
-  27,R,J,G
-  15,R,X
-  10,R
-  14,R,D,X
-  15,R,J
-   4,R
-  17,R,D,X
-   3,R,J
-  17,R,D,X
    6,R
-  23,R,J
-  21,U,X
-  15,D,C
-  21,R,X
-  15,R,C
-  15,R,X
-  15,R,D
-  15,R,X
-  25,R
+  15,R,D,J
+  11,K
+   5
   15,D,X
-  21,D
-   7,R,D
+  10,R,D
+   6,D
+  18,U,X
+   7,R,Z
+  14,R,J,G
+   3,R
+  15,R,D,X
+   9,R,D
   14,R,Z
+   6,R,J
+  17,R
+  17,R,Z
+   5,R,J
+  15,R,D,X
+   4,R
+  11,R,J
+   1,J
+  15,R,U,Z
+   1,R,K
+  11,R,J
+   6,R
+   1,L,J
+   1,L
+  15,D,X
+  18,R,C
+  15,R,X
+  15,R,C
+  15,R,D
+  18,R,X
+   6,R
    1,R,J
-  14,R,D,X
-   1,R,J
+  30
+   2,L
+   7,D
+  11,R,D
    1,R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   9,R,Z
+   1,R,J
+   8,R
+   4,Z
+   1,R,J
+   6,R
+   2,R,J
   40
 
 #lvl_a04
-   6,R
-  11,R,J
-  21,U,X
+#maybe improvable but couldnt save a frame
+   6,R,J
+   3,J
+   2,R,J
    1,J
-  23,R,J
-  18,R,X
-  15,R,U,Z
-   1,L,J,G
-   2,R,K
+  15,U,Z
    1,R
-   5,R,K
-  15,R
-   4,R,D
-   8,R
+   9,L,J
+   1,R,J
+   8,L,J
+   6,R,J
+  15,R,X
+  11,R,U,Z
+   1,L
+   1,J,G
+   4
+  24,R,D
+   3,R
   13,R,U,X
    3,R,J,G
-  14,R,K,G
+  13,R,K,G
   15,U,Z
    1,L,J,G
    1,R,J
@@ -227,19 +274,27 @@ console load EndGameContest2021/1-Submissions/moladan
    1,R,J
    1,J
    1,L,K,G
-  10,K
+   5,L,K
+   3,K
+   2,L,K
   15,U,X
-  15,L,J
-  12,L,Z
-  25,L,J
-  10,D
+  14,L,J
+  11,L,Z
+  20,L,J
+  13,J
+   2,L,J
+   1,J
   18,U,X
-   5,J
-  14,R,Z
+   1,L
+   2,R,J
+   1,R
+   7,R,Z
+   1,R,J
+   6,R
    1,R,J
   14,R,D,X
    1,R,J
-  11,R,D,X
+   8,R,D,X
   40
 
 #lvl_a05
@@ -376,4 +431,4 @@ console load EndGameContest2021/1-Submissions/moladan
    7,L,J
   10,R,K,G
  139,U,X
-ChapterTime: 0:54.417(3201)
+ChapterTime: 0:52.224(3072)
