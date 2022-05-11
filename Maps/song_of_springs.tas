@@ -1,4 +1,4 @@
-RecordCount: 2424
+RecordCount: 2521
 
 console load EndGameContest2021/1-Submissions/moladan
    1
@@ -16,7 +16,6 @@ console load EndGameContest2021/1-Submissions/moladan
    7,D
    4,R,J
   15,R,Z
-
    7,R
    1,L
    9,J,G
@@ -213,25 +212,6 @@ console load EndGameContest2021/1-Submissions/moladan
    7,D
   11,R,D
    1,R
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
    9,R,Z
    1,R,J
    8,R
@@ -294,23 +274,27 @@ console load EndGameContest2021/1-Submissions/moladan
    1,R,J
   14,R,D,X
    1,R,J
-   8,R,D,X
+   7,R,D,X
+   1,R,J
   40
 
 #lvl_a05
-   1,R
-   1,J
-  10,L
-   1,L,J,G
-   1,L,K,G
-  34,D
-  15,L,X
-  22,R,D,Z
-  60,D,X
-   5,R,Z
-   4,R,J
-   1,R
-   8,R
+   5,R,J
+   7,J
+   3,K
+  13,D,X
+   3
+   7,L
+   3,L,D
+   1,L,G
+  17,L,J,G
+  22,R,D,X
+  44,D,C
+  10
+   7,R
+   7,R,Z
+   1,R,J
+   7,R
   27,R,J
   17,U,X
    9,R,J
@@ -431,4 +415,4 @@ console load EndGameContest2021/1-Submissions/moladan
    7,L,J
   10,R,K,G
  139,U,X
-ChapterTime: 0:52.224(3072)
+ChapterTime: 0:52.122(3066)
