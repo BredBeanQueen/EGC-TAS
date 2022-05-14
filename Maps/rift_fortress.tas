@@ -1,4 +1,4 @@
-RecordCount: 3004
+RecordCount: 3343
 
 console load EndGameContest2021/1-Submissions/Yosh
    1
@@ -152,19 +152,20 @@ console load EndGameContest2021/1-Submissions/Yosh
    5
    1,G
    1,R,J,G
-   2
    1,R,K,G
    1,R,J,G
-   6,R,K,G
+   2,R,K,G
+   1,K
+   6,R,K
   15,R,D,X
-   1,R,D
    1,R,J
    5,R,D,X
   13,R,G
    9,R,J,G
    1,L,J
-  10,R
-   5,R,D,X
+   1,R,J
+   8,R
+   6,R,D,X
    1,R,J,G
   11,R
   14,R,D,X
@@ -174,26 +175,25 @@ console load EndGameContest2021/1-Submissions/Yosh
    1,R,K,G
    1,R,J,G
   14,R,D,X
-  16,G
-   1,R,G
-  72,R,U,J,G
-   5,R,G
+  13,R,G
+  70,R,U,J,G
+   2,R,G
    1,L
-  13,R,U,X
+   7,R
+  14,R,U,X
    1,R,J,G
-   1,R
+   1,J,G
   40
 
 #lvl_a05
-   1,R
   15,R,D,X
    8,R
    2,R,J
   14,R,D,X
   17,R,J,G
-   6,R,U,K,G
-  29,U,K,G
-   1,L
+   5,R,U,K,G
+  30,U,K,G
+   1,L,K
   14,R,U,Z
    3,J,G
   40
@@ -211,4 +211,4 @@ console load EndGameContest2021/1-Submissions/Yosh
   16,R
  139,R,D,X
 
-ChapterTime: 0:24.106(1418)
+ChapterTime: 0:24.072(1416)
