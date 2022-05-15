@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1213
+RecordCount: 1460
 
 console load EndGameContest2021/1-Submissions/Quinnigan
    1
@@ -22,41 +22,48 @@ console load EndGameContest2021/1-Submissions/Quinnigan
   15,R,D,X
    6,R,D
    1,R,J
-   5,R
+   8,R,D,X
   40
 
 #lvl_a02
-   5,R
-  18,R,U,Z
-  11,R
+   1,J
+   1,R,J
+   4,J
+   1,R,J
   15,R,U,X
-  36,R
+  10,L
+   1,L,J
+  10,L,Z
+   4,R,J
+   1,J
+   1,R,J
+  15,R,U,X
+  21,R
   16,U,Z
    5,R
   18,U,X
-   2,R
-  20,L,U,Z
+   1,R
+  19,L,U,X
   15,R
   16,R,U,Z
-   6,R,D
-   7,D
-   3,L,D
-   2,L
-   1
-   1,L
+   5,R,D
+   8,D
+   5,L,D
+   1,D
   13,L,Z
    8,R
    3
   15,R,U,X
-  12,L
+  12
   15,R,X
   28
    1,R,D
-   8,F,100
-  11,F,35
-   8,F,21
-   7,F,25
-   2,F,94
+   1,F,132.281
+  11,F,72
+  14,F,23.866
+   3,F,23.32
+   1,F,24.881
+   5,F,33
   15,R,X
    5,R
    4,Z
@@ -158,13 +165,14 @@ console load EndGameContest2021/1-Submissions/Quinnigan
   21,R,D
 # no feather boost :(
    1,R
-  22,F,81
-   8,F,59
-   7,F,46
-  11,F,111
-   9,F,174
-   5,F,157
-  24,R,Z
+  22,F,80.701
+   1,F,78.085
+   6,F,58.84
+   1,F,53.507
+   5,F,42.21
+  11,F,102
+  12,F,149
+  25,R,Z
    6,J
    1,R,K
    1,K
@@ -241,4 +249,4 @@ console load EndGameContest2021/1-Submissions/Quinnigan
   44,U,Z
   27,U,X
  121,L,D
-ChapterTime: 0:37.978(2234)
+ChapterTime: 0:37.808(2224)
