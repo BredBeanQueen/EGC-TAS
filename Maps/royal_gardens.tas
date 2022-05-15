@@ -1,5 +1,5 @@
 #by EllaTAS
-RecordCount: 4126
+RecordCount: 4578
 
 #console load EndGameContest2021/1-Submissions/xolimono 3800 -3496
 #Play lvl_f-01 37
@@ -151,17 +151,19 @@ console load EndGameContest2021/1-Submissions/xolimono
 
 #lvl_ng-01
    3,R
-   7,R,J
+   3,R,J
+   5,J
+   7
    1,R
-  15
-   8,D
-   1,L,J
-  11,L
+  22,D
   15,L,D,X
-  18,L
-   2,R
-  11,R,D
-   9,L,J
+   3,L
+  10,R
+   9,R,D
+   1,D
+   6,L,J
+   2,J
+   1,L,J
   14,R,D,X
    1,R,J
   10,R,D,X
@@ -183,12 +185,16 @@ console load EndGameContest2021/1-Submissions/xolimono
    1,L,J
    9,L,U,Z
    1,R,J
-   5,R
-  15
+   2,R
+   8
+   1,J
+   2
+   1,R
+   8
    1,L,J
   15,R,U,X
-  12
-   3
+   3,R
+   9
    1,J
   15,U,X
   12,L,J,G
@@ -241,27 +247,30 @@ console load EndGameContest2021/1-Submissions/xolimono
   11,U,X
   11
   11,U,X
-  10
-  14,L,D,X
-   8,L,J
-  15,L,D,X
-   9,L,J
+   9
+  14,R,Z
+   5,L,J
   15,L,D,X
    1,L,J
-   6,L
-  17
-  14,U,X
-  13
+   3,J
+  15,L,D,X
+   4,L,J
+   3,J
+   1,L,J
+   1,J
+  15,L,D,X
+   2,L,J
+  17,L
+   3
+  14
   15,L,U,X
    9
   14,U,X
-  11,R,J
+  10,R,J
   40
 
 #lvl_ng-02 (0)
-   4
-   1,L
-   1
+   6,R
    1,R,J,G
    1,R,K,G
    8,R,J,G
@@ -337,15 +346,14 @@ console load EndGameContest2021/1-Submissions/xolimono
    7
    5,L,D,J
    4,J
-  28
-   4,X
-   7,L,J
-   1,R,J
-   1,L,K,G
-   5,L,J,G
-   8
-  18,L,D
-   9,D
+   5
+   2,L
+   1,L,J
+  14,L,U,X
+  12,L,J,G
+  11,L,K,G
+  12,L
+  19,D
    1,J
    7
    2,K
@@ -388,6 +396,26 @@ AnalogMode,Ignore
   15,D,X
   11,L,D
    4,Z
+
+#-2f, needs resyncing
+#  10,L,J
+#   1,L
+#   1,L,J
+#   2,L
+#   1,L,J
+#   5,L
+#   1
+#   7,L,Z
+#   1,L,J
+#   6,L
+#   2,L,J
+#  15,L,D,X
+#  10,L,J
+#   5,L
+#   4
+#   1,J
+#  14
+
   11,L,J
   11,L
    1,L,J
@@ -420,20 +448,16 @@ AnalogMode,Ignore
    1,S,N
    1,D,J
   69,O
-   4,Z
-   1,R,J
-   6,R
-   1,R,K
-   3,R
+   5,R,Z
+  10,R,J
   40
 
 #lvl_ng-02 (1)
-   2,R
-   6,R,J
+   8,R,J
   15,U,Z
   12,L,J,G
-  12,L,K,G
- 101
+   7,L,K,G
+ 103
   10,R
    1,R,D,J
    1,R,K,G
@@ -528,9 +552,11 @@ AnalogMode,Precise
 AnalogMode,Ignore
    2
   14,U,X
- 416
+ 307
+  40
 
 #lvl_f-01
+  69
    1,R,J
    4,X
    6,R,J
@@ -556,7 +582,7 @@ AnalogMode,Ignore
    1,R,K
    1,R,K,G
    9,R
-  16,R,D,J
+  16,R,J
   50,R,X
   15,R,U,Z
    9
@@ -980,4 +1006,4 @@ AnalogMode,Ignore
   14,R,U,X
  135,R,D
 
-ChapterTime: 2:34.853(9109)
+ChapterTime: 2:34.462(9086)
