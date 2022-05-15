@@ -1,5 +1,5 @@
 #by EllaTAS
-RecordCount: 4578
+RecordCount: 4683
 
 #console load EndGameContest2021/1-Submissions/xolimono 3800 -3496
 #Play lvl_f-01 37
@@ -11,7 +11,7 @@ console load EndGameContest2021/1-Submissions/xolimono
 #lvl_ng-start
   69
 #spinner cycle
-   2
+   0
 #-----
    5,L,Z
    1,R,J
@@ -159,28 +159,23 @@ console load EndGameContest2021/1-Submissions/xolimono
   15,L,D,X
    3,L
   10,R
-   9,R,D
-   1,D
-   6,L,J
-   2,J
-   1,L,J
-  14,R,D,X
-   1,R,J
-  10,R,D,X
-   1,R,K
-  22,R
-   1,J
-   5,R,J
+  10,R,D
+  14,R,Z
+  18,R,J
   15,R,D,X
-   5
-  11,R
+   5,R
+   4,R,D,J
+   1,J
+  15,R,D,X
+   9
+   6,R
    1,D,J
-   2,R,J
-   7,L,J
-  14,L
+   1,R,J
+   8,L,J
+  13,L
   15,U,X
-  18,L
-   7
+  19,L
+   6
   14,R,Z
    1,L,J
    9,L,U,Z
@@ -286,16 +281,16 @@ console load EndGameContest2021/1-Submissions/xolimono
    5,R
    3,R,K
    2,R
-   1,R,J
-   5,R,K,G
-  13,R
-  16,U,X
-   9,R
+   1,R,D,J
+  16,R,K,G
+   3,L,J,G
+  34,U,X
+   6,R
    4,Z
    8,R,J
-   2,R
-   2,R,K
    1,R
+   2,R,K
+   2,R
    1,D
    1,R,J
   15,R,Z
@@ -304,7 +299,7 @@ console load EndGameContest2021/1-Submissions/xolimono
    1,R,J
   16,R
   15,R,Z
-  65,G
+  29,G
    1,D,G
    1,R,J,G
    7,R
@@ -398,49 +393,39 @@ AnalogMode,Ignore
    4,Z
 
 #-2f, needs resyncing
-#  10,L,J
-#   1,L
-#   1,L,J
-#   2,L
-#   1,L,J
-#   5,L
-#   1
-#   7,L,Z
-#   1,L,J
-#   6,L
-#   2,L,J
-#  15,L,D,X
-#  10,L,J
-#   5,L
-#   4
-#   1,J
-#  14
-
-  11,L,J
-  11,L
+  10,L,J
+   1,L
    1,L,J
-  10,L,D,X
-   5,L,J
+   2,L
+   1,L,J
+   5,L
+   1
+   7,L,Z
+   1,L,J
+   6,L
+   2,L,J
   15,L,D,X
-  11,L,J
-   7,L
-  17,D
+  10,L,J
+   5,L
+   4
+   1,J
+  14
    4,X
   26
    1,R,U
-   4,F,50.423
-   1,F,52.428
-  11,F,60.532
-   1,F,57.118
-  31,F,12.252
-   1,F,9.909
-  15,F,322.149
-   1,F,320.783
-  17,F,288.723
-   1,F,286.795
-   5,F,220
-  23,F,190
-   8
+   5,F,55.955
+  12,F,58.431
+   1,F,58.058
+  31,F,10.899
+   1,F,6.909
+  11,F,318.081
+   6,F,317.524
+   1,F,313.019
+  11,F,297.427
+   1,F,292.096
+  11,F,232
+   8,F,190
+  20
   14,R,Z
    9,L,J
   14,L,X
@@ -1006,4 +991,4 @@ AnalogMode,Ignore
   14,R,U,X
  135,R,D
 
-ChapterTime: 2:34.462(9086)
+ChapterTime: 2:33.918(9054)
