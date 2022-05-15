@@ -1,0 +1,69 @@
+RecordCount: 210
+
+console load EndGameContest2021/0-Lobbies/1-Submissions
+   1
+
+#Start
+ 138
+
+#lvl_LOBBY
+   4,X
+  10,L,J
+  14,L,U,X
+   1,J,G
+   4,L,J,G
+   6,L
+   1,R
+   1,J
+   5,R,J
+  15,U,X
+  12,L,J,G
+  10,L,X
+   1,L,J
+   1,L,K,G
+   2,L,J,G
+  10,K,G
+   1,L
+   1,L
+  15,L,U,X
+  15,U,C
+   8,L
+   2
+  12,J
+  15,U,X
+   1,R
+  15,U,X
+   2,R
+  11,R,J,G
+   1
+   8,R,K,G
+   5
+   1,R
+   1
+   4,J
+  13,R,Z
+   1,L,J
+   4,L
+  18,L,J
+   5,J
+  15,U,X
+   6,L
+  15,L,X
+  10,L
+   9,L,Z
+  10,L,J
+  15,U,X
+   1,J,G
+   4
+   3,L
+  13,L,J
+  15,L,X
+   9,L,Z
+   1,L,J
+   1,L
+   1,L,J
+   2,L
+  10,L,J
+  15,L,D,C
+   1,X
+#0:06.188(364)
