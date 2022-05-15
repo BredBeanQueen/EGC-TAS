@@ -1,5 +1,5 @@
 #by EllaTAS
-RecordCount: 4683
+RecordCount: 4987
 
 #console load EndGameContest2021/1-Submissions/xolimono 3800 -3496
 #Play lvl_f-01 37
@@ -391,8 +391,6 @@ AnalogMode,Ignore
   15,D,X
   11,L,D
    4,Z
-
-#-2f, needs resyncing
   10,L,J
    1,L
    1,L,J
@@ -400,7 +398,8 @@ AnalogMode,Ignore
    1,L,J
    5,L
    1
-   7,L,Z
+   1,L
+   6,L,Z
    1,L,J
    6,L
    2,L,J
@@ -910,7 +909,6 @@ AnalogMode,Ignore
    3
   26
    1,L,U
-
   11,F,15
   37,F,36.306
    6,F,28.073
