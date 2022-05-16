@@ -1,4 +1,4 @@
-RecordCount: 971
+RecordCount: 1179
 
 console load EndGameContest2021/1-Submissions/Worldwaker2
    1
@@ -248,18 +248,19 @@ console load EndGameContest2021/1-Submissions/Worldwaker2
    1,R
   19,R,D,X
    1,R
-  56,R,J
-  15,R,X
-   1,R,K,G
+  35,R,J
+  22,R,D
+  14,R,U,X
+   2,R,J,G
+   2,R
+   3,R,K,G
    7,R
-   9,R,J
-  10,R,X
-   7,R,J
-  13,U,X
+   4,R,J
+  15,U,X
 repeat 5
   12,R
   12,L
 endrepeat
   15,D
 
-ChapterTime: 0:48.246(2838)
+ChapterTime: 0:48.059(2827)
