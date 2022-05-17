@@ -5,11 +5,9 @@ console load EndGameContest2021/1-Submissions/Jan
  190
 
 #lvl_1
-  14,L,U,X
-   1,J,G
-   1
-   2,J,G
-   7,L
+  13,L,J
+   7,L,K,G
+   1,L
   10,L,Z
   14,R,J
    4,R
@@ -109,16 +107,17 @@ console load EndGameContest2021/1-Submissions/Jan
    7,R,D,X
    4,R,J,G
    8,R
-   9,R,J
-  47,R
-  22,U,X
-   4,L
-   1,R,J
-   4,R
-   9,R,D,X
+   8,R,J
+  46,R
+  26,U,X
+   3,R,J
+   2,R
+  10,R,D,X
    4,R,J
-   3,R
+   2,R
   40
+
+#lvl_7
   18,R,D
    1,D
    1,R,D
@@ -172,7 +171,6 @@ console load EndGameContest2021/1-Submissions/Jan
   40
 
 #lvl_9
-
    6,R
    1
    1,R,J
@@ -340,4 +338,4 @@ repeat 4
   22,L,Z
   91,D,C
   49,X
-ChapterTime: 0:43.299(2547)
+ChapterTime: 0:43.248(2544)
