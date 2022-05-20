@@ -6,11 +6,6 @@ console load EndGameContest2021/1-Submissions/LostInNowhere
 #Start
  239
 
-#need to find a new place to put spinner cycle, this place doesnt work because madeline continues to rise in the water while waiting which desyncs the strat
-#in a_06 the spinner seems to have a larger cycle than 3f, someone should look into this and figure out what's going on
-#Spinner Cycle
-   0
-
 #lvl_a_01
    1,R,J
    1,R,K
