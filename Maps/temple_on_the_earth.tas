@@ -1,5 +1,5 @@
 #by Topaz
-RecordCount: 1955
+RecordCount: 2153
 
 console load EndGameContest2021/1-Submissions/Appels
    1
@@ -66,7 +66,6 @@ console load EndGameContest2021/1-Submissions/Appels
   40
 
 #lvl_a02
-
    2,R,D,X
    1,R,J
    7,J
@@ -82,14 +81,19 @@ console load EndGameContest2021/1-Submissions/Appels
   18,L
   16,G
   23,R,J
-   2,G
-  34,L,J
+   1,R,G
+  10,L,J
+  13,L
+   3,L,J
+   2,L
+   4,L,K,G
+   1,L,J,G
    9,L,U,X
   11
    5,U,X
-  10,L,J
-   1
-   1,L
+   7,L,J
+   3,J
+   2
   15,L,U,X
    3
   12,J,G
@@ -172,7 +176,6 @@ console load EndGameContest2021/1-Submissions/Appels
    1,L
    1,L,J,G
    5,L,K,G
- 
    1,L,J,G
    2,R,J,G
    1,J
@@ -462,4 +465,4 @@ console load EndGameContest2021/1-Submissions/Appels
    3
   15,R,D,X
   79
-ChapterTime: 1:04.991(3823)
+ChapterTime: 1:04.957(3821)
