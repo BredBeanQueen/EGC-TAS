@@ -1,4 +1,4 @@
-RecordCount: 1349
+RecordCount: 1446
 
 console load EndGameContest2021/1-Submissions/Nyan
    1
@@ -78,24 +78,25 @@ console load EndGameContest2021/1-Submissions/Nyan
    1,R,D,J
    4,R
   15,R,D,X
-   4,R,D
-   8,D
-   4,R,Z
+   6,R,D
+   4,D
+   1,R,D
+   1,D
+   4,Z
    1,R,J
-   3,R,K
+   2,R,K
   40,K
 
 #lvl_tutorial
-   3,R,K
-   8,R
+   7,R,K
+   3,R
   14,R,Z
   22,R,J
-   1,R
-  14,R,D
-   1,R
-   2
-   1,R,J,G
-   7,R
+  17,R,D
+   2,R
+   1,R,K,G
+   1,L
+   6,R
    4,R,Z
    1,R,J
    7,R
@@ -343,4 +344,4 @@ console load EndGameContest2021/1-Submissions/Nyan
   15,R,K,G
   17,U,X
  135
-ChapterTime: 0:54.400(3200)
+ChapterTime: 0:54.383(3199)
