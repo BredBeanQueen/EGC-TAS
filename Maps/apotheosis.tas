@@ -1,231 +1,235 @@
-RecordCount: 1436
+RecordCount: 2432
 
 console load EndGameContest2021/1-Submissions/jadeturtle
    1
 
 #Start
  190
+
 #lvl_a-0
-  10,L,D,X
-   6,R,J
-   3,R,K,G
-   1,K
-   1,R,K
-   2,R,J,G
-   7,R,D,X
+   3,L,J
+  10,R,Z
+   1,R,J
+   4,R,K,G
+   8,R,D,X
    1,S
-  35,D,O
-   6,R
-   1
-   1,R,J
-   5,R,D,C
-  13,R,G
-   1,R,J,G
-  35,R,G
-   1,R
-## This can probably be optimized more
-  33,R,U,X
-  13,L,D,C
-   1,R,J
-   1,R
-   6,R,D,X
-  13,R,G
-   1,R,J,G
-   7,R
-   1,L
+   1,D,O
+  34
    6,R
    1,R,J
+   5,R,D,X
+  13,R,G
+   1,R,J,G
+  22,R,G
+  10,R,D,G
+   1,R,G
+   1,R
+  14,R,U,X
+   1,R,J,G
+   3,R
+  21,R,G
+   1,R,J,G
+   1,L,J
+   8,R,J
+   2,R
   43
 
 #lvl_a-1
-  15,R
-   2,R,J
+   2
+  15,R,D,X
+   3,R,J
+   1,R,K,G
+   1,K
+   2,R,K
    2,R
    1,R,J,G
-   8,R,D,X
+   9,R,D,X
   13,R,G
-# Everything in this room past here feels very unoptimal
-   9,R,J,G
-   2,R,G
-   1,L,G
-   1,R,G
-   1,L,G
-   1,L
-   8,L,U,X
-  12,R,J
-  14,R,Z
-   1,R,J
-  34,R,J,G
-  11,R,G
+#can go a frame faster but couldnt get good subpixels
+   3,R,J,G
+   6,J,G
    1,G
    1,R,G
-   3,R,D,G
-   1,D,G
-   1,D
-   1,R,K,G
-   4,R,J,G
-  28,R,G
+   1,L
+   8,L,U,X
+  12,R
+  14,R,Z
+   1,R,J
+#  15,R,G
+#  29,R,J,G
+#   1
+#   1,R,K,G
+#   3,R,J,G
+  14,R,G
+  23,R,J,G
+   1,J,G
+   6,R,J,G
+   1,R
+   1,R,J,G
+   4,R,K,G
+  21,R,G
+   1,R,J,G
+   6,R,G
    1,J,G
    2,R,J,G
-   5,R,G
+   4,R,G
+   1,G
    3,J,G
    3,G
    1,R
   14,R,U,X
   21,G
-  28,R,J
-  25,R,J,G
+  20,R
+  21,R,G
    1,R
   14,R,U,X
-  25,R,J,G
+  23,R,G
    1,R
-   8,D
-  16,R,D
-   4,R
-  27,R,J
-   9,K,G
+   2
+  16,R
+  13,R,D
+   1,R
+   1,R,D
+   1,R
+  26,R,J
+   1,R
+   8,K,G
    1,L,K
-  10,R,J,G
-   2
-  10,K,G
-   2
-   1,R,J,G
+   1,J
+  11,R,K,G
+   1,R
+   4,J,G
+   1
+   1,K,G
+   6,K
    7,R
-   5,R,Z
+   4,Z
    1,R,J
   13,R,G
    1,R,K,G
-  11,R,G
-   4,R
+  12,R,G
+   3,R
+   7,R,Z
    1,R,J
-   4,R,D,X
-   2,R,J
   40
 
 #lvl_a-2
-   8,R
+   7,R
    1,R,J
-  10,R,D,X
+  13,R,D,X
   13,R,G
-   5,R,J,G
-   1,R,G
-  33,R,J,G
+  35,R,J,G
+   1,J,G
+   3,R,J,G
    1,R
-  18,R,X
-   9,U,C
-  13,G
-   8
+  14,R,U,X
+  21,R,G
    1,D
   10,U,X
-###
-#  13,J,G
-#   4,L,G
-#   6,G
-#   1,D
-#  18,R,X
-#  12,L,C
-#  13,L,G
-# ...
-  20,G
-   1,L,G
-  13,L
+  14,G
+   7,L,G
+   2,L
    3,R
   18,R,X
-  18,L,C
-   6,L,X
+  15,L,C
+   8,L,X
    7,L,J,G
-   3,L
-   3
-  11,L
+   8,L
+   3,L,J
+   5,L
+   1
    5,U,X
   21,R,G
    1,D
-   5,U,X
+   6,U,X
   31,R,G
    1,R
-   2,R,J,G
-  11,R
-   8,L,Z
+   7,L,Z
    1,R,J
-   7,R
-   7,R,J
+   6,R,G
+   9,R,J
+  31,R,G
    1,R
-  13,R,G
-  18,R,G
-   1,R
-  18,R,X
-  15,L,U,C
-   7,U,X
-  18,R,G
-   3,G
-   1,D
-   1,J,G
-   2,J
-   1,K,G
-  14,K,G
-   1,J
-   9,R,J,G
-   1,L,J
-  10,R,J
-   1,R
+  19,R,X
+#maybe theo wb
+  15,L,U,Z
+   6,U,X
+  22,R,G
+   2,K,G
+   1,L,K
+   8,R,K
+   3,R
+   3,R,J,G
+   5,R
+   2
   10,R,Z
-   3,L,J
+   2,L,J
+   2,L
+   2,L,J
    1,L
    1,L,J
-   1,L
-   1,L,J
-   1,R
-   5,L
+   4,L
   14,L,Z
    1,L,J
    6,L
   16,L,J
    9,U,X
   20,L,J
-   2
+   6,R
+  13,L,U,X
+   9
   15,L,X
-  17,L,U,C
-   3,L,J,G
    1,L
-   1,L,J,G
-
-   7,L
-   6,L,D,X
-   6,R,J
-  11,R
-   7,R,J
-  17,R
-  11,L
-  15,L,X
-   3,L
-   3,L,J
-   7,L,Z
+   1,J
+  10,R,Z
+   3,R,J
+   6,R
    1,R,J
-  20,R,K,G
-  32,R,G
+   2,R
+   4,R,J
+   5,R
+   2,R,J
+  10,R
+   2
    1,R
-  15,R,X
-   4
-  11,R,U,C
-  14,G
-   3,R,G
-  14,R,J,G
+  15,L,D,X
+   1,L
+   2,J
+   5,R,Z
+   1,R,J
+   4,R
+  25,R,G
+  15,R,U,X
+  10,R,C
+  30,R,G
+   2,R,D,G
+   1,R
+  14,R,U,X
   14,R,G
+  19,R,J,G
+   9,R,G
+
+
+
+
+
+
    1,R
    9,L,Z
    1,R,J
-   7,R
-   1,R,J
-   6,R,Z
+   3
+   1,J
+   4
+   7,R,Z
    1,R,J
    7,R
    1,R,J
    7,R,D,X
   13,R,G
-   1,R,J,G
   40
 
 #lvl_a-2a
+   1
   10,R,J,G
    1,J,G
    6,G
@@ -369,7 +373,9 @@ endrepeat
    1,R,J,G
    2,J
   13,R,J,G
-   7,R,G
+   5,R,G
+   1,G
+   1,R,G
    1,D
   10,L,Z
    1,R,J
@@ -407,4 +413,4 @@ endrepeat
   10,L,J
  108
 
-ChapterTime: 0:55.981(3293)
+ChapterTime: 0:54.247(3191)
