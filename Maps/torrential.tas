@@ -1,4 +1,4 @@
-RecordCount: 1767
+RecordCount: 1937
 
 console load EndGameContest2021/1-Submissions/Nyan
    1
@@ -223,35 +223,36 @@ console load EndGameContest2021/1-Submissions/Nyan
    6,R,J
   13,G
   46,R,U,J,G
-  19,R,D,G
+  15,R,D,G
+   1,R,G
+   3,R,D,G
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
    1,L,J
   15,R,D,X
-   6,R,D
+   5,R,D
    1,R,J
    1,R,K
-   5,R
-   7,R,D,X
+   9,R
   40
 
 #lvl_5
-   7,R,D,X
+   6,R
+   1,R,D,J
+  13,R,D,K
+   1,J
+   2,R,J
+  14,U,X
+  35,L,U,G
+  14,L,J,G
    1,R,J
-  11,R,K
-   6,U,X
-  15,L,J
-  13,G
-  32,L,G
-   8,L,J,G
-  19,L,G
+   7,L,J
+  12,R,Z
+   3,R,J
    1,R
-   8,L,Z
-  12,R,J
-  13,G
-  23,R,G
+  31,R,G
    1,L
-  20,R,D
+  16,R,D
   17,D
   12,R,D
   10,L,D,X
@@ -267,12 +268,11 @@ console load EndGameContest2021/1-Submissions/Nyan
   13,L
    1,L,J
   25,L,K,G
-   1,J
-  11,L,J
+  11,J
+   2,R,J
   12,R,U,X
-  78,R,U,G
-  13,R,D,G
-   3,D,G
+  75,R,U,G
+  18,R,D,G
    9,R,J,G
   12,R,G
    7,R,J,G
@@ -350,4 +350,4 @@ console load EndGameContest2021/1-Submissions/Nyan
   15,R,K,G
   17,U,X
  135
-ChapterTime: 0:53.822(3166)
+ChapterTime: 0:53.244(3132)
