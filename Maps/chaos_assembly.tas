@@ -1,4 +1,4 @@
-RecordCount: 2197
+RecordCount: 2435
 
 console load EndGameContest2021/1-Submissions/oknano
    1
@@ -212,13 +212,13 @@ console load EndGameContest2021/1-Submissions/oknano
    3
   15,U,X
    9,R,C
-   7,R,X
-   8,R,J
-   5,R
-   3,R,J
-   1,J
+   6,R,X
+   9,R,J
+   7,R
+   2,R,J
+  16,R,D
    1,D
-  22,R,D
+   5,R,D
   14,R,X
   15,D,C
   12,R,D,X
@@ -259,17 +259,24 @@ console load EndGameContest2021/1-Submissions/oknano
   14,L,J
    5,J
   15,U,X
-   1,U,X
+   1
    7,L,J
-   5,R
-   6
-   6,J
-   6,R,J
-  15,U,X
-   5,L
+   3
+   1,R
+   1
+   6,R
+   1,R,J
+   7,R
+   2,R,J
+  15,U,Z
+   1,L
+   1,L,J
+   2,J
+   1,L,J
+   4,L
    1,L,J,G
-   4,L,K,G
-  13,L
+   3,L,K,G
+   8,L
   15,R,U,X
   14,R,C
    9,R,J
@@ -299,7 +306,6 @@ console load EndGameContest2021/1-Submissions/oknano
    1,J
    1,L,J
   40
-
 
 #lvl_7
    4,L,J
@@ -464,31 +470,32 @@ console load EndGameContest2021/1-Submissions/oknano
   40
 
 #lvl_DONT_IGNORE_ME
-   4
-  13,L
+   2
+   9,L
+   6,L,U,X
    1,L,J,G
-   1,L,K,G
-  15,L,X
+   6,L
+   1,L,J
+   7,L
    1,J
-  20,R
-   6
-   5,J
-  12,L,J
-   9,L,K,G
-   5,L
-  13,L,J
-   3,J
-  32,R,X
-   1,G
-   1
-   1,G
-   1
-   1,G
+  16,R
+  10
+  10,J
+   7,L,J
+   5,L,X
    1,J,G
-   3,R,J,G
+   8,L,J
+   1,R,J
+  21,R,D
+   1,R,J
+  13,R
+   7
+   1,G
+   4,J,G
+   1,R
   15,R,U,X
   12,D
   14,R,D
   13,R,Z
  135,R,G
-ChapterTime: 0:59.313(3489)
+ChapterTime: 0:59.058(3474)
