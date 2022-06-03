@@ -41,33 +41,109 @@ console load EndGameContest2021/0-Lobbies/1-Submissions LOBBY2 19
   10,R,J
   11,K,G
    1,L,K
-   1,R,J,G
-   6,L,J
-  23,L,K
-  10,L
+   3,R,J,G
+   1,L,J
+   4,R,J,G
+   1,K
+   2,J,G
+  33,L,J
   15,L,U,X
   19,L
   15,L,U,X
   19,L
-   1,L,J,G
-   7,L
-   6,L,Z
+   8,L,Z
    1,L,J
    2,L,K,G
    1,L,J,G
-   1,L,K,G
-   1,L
+   2,L,K,G
   12,L,J,G
   15,L,D,X
    7,L,D
-   9,L,U,X
+  14,L,U,X
    1,L,J,G
- 221
+  15,U,X
+   9,L,J,G
+ 168,L,G
+   1,L,J,G
+  26,D
   12,J
   11,K,G
   15,L,Z
   15,D,X
- 522
+  26
+  14,R,Z
+   1,L,J
+  13,L,D,X
+   1,L,J
+   4,L
+   6,L,J
+  14,U,X
+   9,L,J
+  18,J
+  14,R,Z
+   1,R,J
+   6,R
+   5,R,J
+   1,J
+  15,R,U,X
+  15,L,U,C
+  23,L
+   1,L,G
+   5,L,J,G
+  11,L
+   4,Z
+   1,L,J
+   6,L
+   5,J
+  15,U,X
+   2,R
+   4,R,J
+  15,U,Z
+  10,L,J,G
+   7,L
+   2,L,J
+   1,L,K,G
+   7,L,J,G
+  10,L,Z
+   5,L,J
+   5,L
+   1,L,J
+   8,L
+  15,D,C
+   1,X
+  29
+   1,R
+  21
+   1,X
+   4
+   5,J
+   6,R,J
+  12,R,Z
+   9,R,J
+  14,R,U,X
+   1,R,J,G
+  15,U,Z
+  10,R
+   5,L,Z
+   1,R,J
+   6
+   4,J
+  15,D,X
+  15,U,C
+   2
+   1,R
+   3,R,J
+   2,L,J
+   1,L,K,G
+   7,L
+   1,L,G
+  12,L,K,G
+   6,L
+   7
+  14,L,D,X
+   1,R,J
+  15,D,C
+   6
    4,L
    4,Z
    1,R,J
@@ -181,4 +257,4 @@ console load EndGameContest2021/0-Lobbies/1-Submissions LOBBY2 19
   11,R,D
    1,L,J
  103,R,D,X
-#34.510
+#34.476
