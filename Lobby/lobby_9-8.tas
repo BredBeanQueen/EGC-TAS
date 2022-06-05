@@ -1,0 +1,38 @@
+console load EndGameContest2021/0-Lobbies/1-Submissions LOBBY 25
+   1
+
+#Start
+  36
+   8,L
+   1,L,J
+   2,J
+   1,L,J
+  15,U,Z
+   1,R,J,G
+   6,R,K,G
+  23,R,J,G
+  10,R
+  20,R,J
+  15,R,X
+  46,R
+  13,R,D
+   2
+   2,R,D
+  15,U,X
+   1,L
+  15,R,C
+  13,D
+  22,R,J
+  22,R,D
+   4,R
+   1,R,D
+   1,R
+   6,L,X
+   4,R,J
+  28,R
+   5,R,D
+  14,R,Z
+   4,R,J
+   6,R
+   1,X
+#5.253(309)
