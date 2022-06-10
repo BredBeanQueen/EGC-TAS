@@ -8,9 +8,13 @@ console load EndGameContest2021/0-Lobbies/1-Submissions LOBBY 19
    1,R
    1,R,J
    2,R
-  10,R,J
-   5,R
-   5,R,K,G
+   1,R,J
+   1,J
+   8,R,J
+   4,R
+   4,R,K,G
+   2,K
+   1,R,K
   14,U,X
    1,J
   11,R,U,C
@@ -37,5 +41,5 @@ console load EndGameContest2021/0-Lobbies/1-Submissions LOBBY 19
    8,L,J
   15,L
    1,X
-#0:02.550(150)
+#0:02.567(151)
 #bad
