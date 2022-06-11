@@ -1,4 +1,4 @@
-RecordCount: 1657
+RecordCount: 1885
 
 console load EndGameContest2021/1-Submissions/Worldwaker2
    1
@@ -15,46 +15,42 @@ console load EndGameContest2021/1-Submissions/Worldwaker2
    2,R
    2,R,J,G
    7,R
-   4,R,Z
+   7,L,Z
    1,R,J
-   6,R
-   4,R,J
+   7,R
+   6,R,J
   40
 
 #lvl_Main
-   8,R,J
-   2,R,K,G
-  14,R,D,X
-   1,R,J
-  16,R,D,X
-   1,R,J
-   1,R
-  15,R,D,X
+   5,R,J
    2,R
-
-  11,R,J
-   6,R
-   1,R,J
-  17,R
-  14,R,U,X
+   5,R,D,X
    1,R,J,G
-   8,R
+  11,R
    1,R,J
-   4,R
-   7,R,J
+  17,R,D,X
+   2,R,J
+  17,R,D,X
+   1,R
+  24,R,J
    5,R
+  14,R,X
+   1,R,J,G
+  12,R
+  10,R,J
+   1
+   5,R
+   8,R,D,X
+   6,R,J,G
+  12,R
    1,R,J
-  14,R,Z
-   1,R,J
-  13,R,D,X
+   1,J
    7,R,J
-   1,R,K,G
-  14,R,D,X
-  12,R,J
-  24,J
-  36,R
-  35,R,J,G
-  12,R,U,Z
+  11,R
+  13,R,D
+   3,R
+  36,R,J,G
+  13,R,U,Z
   43,R
   15,R,D,X
   12,R,J
@@ -101,8 +97,7 @@ console load EndGameContest2021/1-Submissions/Worldwaker2
   15,R,U,X
   13,R
    7
-   1,R
-  25,R
+  26,R
   15,R,U,X
   26,R,D
   15,R,D,X
@@ -260,4 +255,4 @@ repeat 5
 endrepeat
   15,D
 
-ChapterTime: 0:47.804(2812)
+ChapterTime: 0:47.039(2767)
