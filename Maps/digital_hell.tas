@@ -1,4 +1,4 @@
-RecordCount: 2048
+RecordCount: 2176
 
 console load EndGameContest2021/1-Submissions/ABuffZucchini
    1
@@ -222,26 +222,22 @@ console load EndGameContest2021/1-Submissions/ABuffZucchini
   28,L,D
   15,L,X
   14,D,C
-   9,R,D
-   7,D
-   1,L,J
-   4,L
-  10,R,D,X
-#longer dash here would
-#probably save time
-  12,R,J
-  18,R,U,X
-  25,R
-  32,R,U,X
-   5,R,K
-  18,R,D
-   2,R,D
-   2,R
-   5,R,D
-   1,R
+   8,R,D
    2
-   1,R,D
-   6,R,Z
+   1,R
+   6
+   1,L
+   5,L,Z
+   1,R,J
+   5,R
+  22,R,J
+   7,R
+  14,R,U,X
+   1,R,J,G
+   1
+  19,R
+   7,R,D
+   5,R,Z
    1,R,J
   10,R
   41,R,K
@@ -295,20 +291,32 @@ console load EndGameContest2021/1-Submissions/ABuffZucchini
    8,G
    1
    1,J
-  48,R,J
-   1,K
-  25,R,K
-   1,J
-  24,R,J
-   9,U,X
-  19,R,J
    1,R,K,G
-   1,R,J,G
+  18,R,G
+   2,R,J,G
+   2,J
+   2,L,J
+   1,J
+   1,L,J
+   1,J
+  11,R,K,G
+   5,K
+  14,R,J
+   1,K
+   1,J
+  10,L,J
+   1,J
+  10,K
    7,R
+   5,L,D,X
+   1,R,J
+   1
   40
 
 #lvl_DH_05
-  15,R,D,X
+   2
+   1,R
+   5
   10,R,D,C
    4,R,J
   22,R
@@ -316,19 +324,22 @@ console load EndGameContest2021/1-Submissions/ABuffZucchini
   17,R
    1,L,J
   30,L,D
-  17
-   5,L
-  36,R,D
-  16,R,D,X
-   1,L,J
-   4,R,K,G
-  31,R,J,G
+  12
+   5,D
+   5,L,D
+  30,R,D
+  13,R,D,X
+   1,L
+   1,J,G
+   1,L,K,G
+   6,R,K,G
+  14,R
   27,U,X
    7,R,D
   34,D
   12,L,X
-   6,L,J
-   4,L,Z
+   4,L,J
+   6,L,Z
   25,L,J
   34,L,U,Z
   18,U,X
@@ -563,25 +574,30 @@ console load EndGameContest2021/1-Submissions/ABuffZucchini
    4,L,J
    3,L,K
   82,L,G
-  21,D
-   7,L,D
-   6,R,X
+  18,D
+   3
+  14,L,D,X
+   1,R
    1,J
-   1,R,K,G
-   7,L
-  19,L,D,X
-  12,L,J
-  34,L
-   4,L,D
-  11,L,U,X
-   5,L,J,G
+   1,K,G
+   2
+  18,L,D,X
+   6,L,J
+  30,L
+   5,L,D
+   2,D
+  14,L,U,X
+   4,L,J,G
   40
 
 #lvl_DH_08
-  12,L,J
-  24,L,D,X
-  18,L,J
-  19,L,U,X
- 147,U,C
+   7,L,J
+   4,L
+  18,L,D,X
+   1,D
+   4,L,D
+  13,L,J
+  17,L,U,X
+ 149,U,C
 
-ChapterTime: 1:40.589(5917)
+ChapterTime: 1:38.345(5785)
