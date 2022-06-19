@@ -1,4 +1,4 @@
-RecordCount: 2692
+RecordCount: 2734
 
 console load EndGameContest2021/1-Submissions/ABuffZucchini
    1
@@ -477,32 +477,28 @@ console load EndGameContest2021/1-Submissions/ABuffZucchini
   18,L,J
    4,J
   42,R,X
-   6,L,J
-  18,U,X
-   6,L
-  20,R,U,G
-   2,R
-   1,R,G
-   2,R
-#Make a multiboost here please
-  29,G
-  20,R,U,G
-   3,R
+   4,J
+   2,R,J
    1,J
-   1,R,K,G
-  29,L,K
-  14,U,X
-#  47,G
-#  35,L,J
-#  14,U,X
-#  29,R,J
-  11,R,J
+  15,U,Z
+  11,R
+   1
+   6,L
+  60,L,U,G
+   3,R
+   1,L
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  17,L,K,G
+  12,U,X
+  10,R,J
   18,R
   30,L,K
   12,D
    1,R,D
    1,L,D
-  20,G
+  24,G
    4,D,G
    1,R,J
   16,R,K
@@ -511,10 +507,10 @@ console load EndGameContest2021/1-Submissions/ABuffZucchini
   15,D
    6,L,D
    4,L
-  16,R
+  17,R
   35,U,X
-   4
-   3,L
+   2
+   5,L
   14,L,U,X
    1,J,G
   15
@@ -653,4 +649,4 @@ console load EndGameContest2021/1-Submissions/ABuffZucchini
   17,L,U,X
  149,U,C
 
-ChapterTime: 1:36.033(5649)
+ChapterTime: 1:35.829(5637)
