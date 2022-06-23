@@ -1,4 +1,4 @@
-RecordCount: 3223
+RecordCount: 3320
 
 console load EndGameContest2021/1-Submissions/oknano
    1
@@ -112,8 +112,8 @@ console load EndGameContest2021/1-Submissions/oknano
 #lvl_4
    6,R,J
    7,R,Z
-   1,R,J
-   8,R
+   2,R,J
+   7,R
    5,R,X
   10,R,J
    5,R
@@ -154,7 +154,7 @@ console load EndGameContest2021/1-Submissions/oknano
    5,R,J
    6,R
    1,R,J,G
-   5,L,D
+   5,D
   20,R,D
    3,R
   11,R,X
@@ -432,14 +432,9 @@ console load EndGameContest2021/1-Submissions/oknano
 #can you manip like 0.06 X here?
    1,R,J,G
    8,R
-#could save time maybe
-#  29,L,U,Z
-#  15,L,U,V
-#   1,R
-#   2,L,D
-#---------
-  31,L,U,Z
-  10,U,C
+  15,L,U,Z
+  10,L
+  12,L,U,Z
    9,L,X
    5,L,C
   11,L,J
@@ -503,4 +498,4 @@ console load EndGameContest2021/1-Submissions/oknano
   14,R,D
   13,R,Z
  135,R,G
-ChapterTime: 0:58.701(3453)
+ChapterTime: 0:58.633(3449)
