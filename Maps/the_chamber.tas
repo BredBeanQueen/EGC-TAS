@@ -5,8 +5,10 @@ Set,CrystallineHelper.TriggerTriggerRandomizationType,ChapterTimer
 #Variant 1:
 console load EndGameContest2021/1-Submissions/Toto00
 
-#lvl_start
+#Start
  191
+
+#lvl_start
 #RNG Manip (gross)
    0
   14,R,Z
@@ -28,47 +30,48 @@ console load EndGameContest2021/1-Submissions/Toto00
   14,R,D,C
    1,R,J
   15,R,D,X
-   1,R
-   2,R,J
-   1,J
+   1,R,D
+   3,R,J
   15,R,D,X
    3,R,D
-   1,R,J
    7,R,D,X
    1,L,J
-   7,L
-   2,L,J
+   6,L
+   1
+   1,L,J
+   1,L
   15,L,D,X
-   6,L,D
+   1,L
    1,L,J
   15,L,D,X
-  10,L,D
-  11,R,D
-   3,D
+  15,D
+  14,R,D
   10,R,Z
    3,R,J
    2,R
-  14,R,D,X
-  13,R,J
-  14,U,Z
+  13,R,D,X
+   5,R,J
+  10,J
+  13,U,Z
    6,J
-   2
   10,L,X
-  26,R,J
-   6,R
+  25,R,J
+   7,R
   14,R,Z
    1,R,J
    6,R
    1,R,J
   15,R,D,X
    5,R,D
-   1,R,J
-  14,R,D,X
-   1,R,J
-  11,R
-  15,D,X
- 133
-ChapterTime: 0:09.962(586)
+  12,R,J
+   1,R
+  15,R,D,X
+  27,D,C
+   8,L,D
+   9,L,J
+  35,U,X
+  71,J
+ChapterTime: 0:09.911(583)
 
 
 ##Variant 2:
