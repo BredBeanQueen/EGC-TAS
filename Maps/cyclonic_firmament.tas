@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1630
+RecordCount: 1758
 
 console load EndGameContest2021/1-Submissions/Quinnigan
    1
@@ -197,12 +197,14 @@ AnalogMode,Ignore
    4,R,J
    5,R,Z
    6,R,J
-   6,R
-   3,R,J
-  17,R,U,Z
+   2,R
+   8,R,J
+   1,R
+  15,R,U,X
    5,R,D
-   8,D
-  11,L,D
+   3,D
+   1,R,D
+  14,L,D
   12,L,Z
   23,R
   12,U,X
@@ -212,7 +214,7 @@ AnalogMode,Ignore
 AnalogMode,Square
    1,F,293.822
 AnalogMode,Ignore
-  28,F,270
+  28,F,270.036
   21,F,91
   11,F,98
   11,F,68.341
@@ -249,4 +251,4 @@ AnalogMode,Ignore
   27,U,X
  121,L,D
 
-ChapterTime: 0:37.723(2219)
+ChapterTime: 0:37.706(2218)
