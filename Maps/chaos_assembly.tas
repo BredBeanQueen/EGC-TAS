@@ -1,4 +1,4 @@
-RecordCount: 3392
+RecordCount: 3608
 
 console load EndGameContest2021/1-Submissions/oknano
    1
@@ -322,11 +322,15 @@ console load EndGameContest2021/1-Submissions/oknano
    5,L
    1
    4,R,Z
-   8,R,J
-  11,R
-   8,R,J
-   8,R
-  12,R,U,X
+   7,R,J
+   1,R
+   2,R,J
+   9,R
+   5,R,J
+   5,R
+   1
+  15,R,U,Z
+   1,J
   18,R,D,C
   15,L,D,X
   13,D
@@ -497,4 +501,4 @@ console load EndGameContest2021/1-Submissions/oknano
   14,R,D
   13,R,Z
  135,R,G
-ChapterTime: 0:58.599(3447)
+ChapterTime: 0:58.582(3446)
