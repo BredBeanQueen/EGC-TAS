@@ -1,4 +1,4 @@
-RecordCount: 4907
+RecordCount: 4919
 
 console load EndGameContest2021/1-Submissions/LostInNowhere
    1
@@ -339,7 +339,7 @@ endrepeat
    2,L,J
   25,L,D,X
   29,L,J
-  15,U,X
+  14,U,X
   35,R,J
    1,K
   25,R,K
@@ -409,7 +409,6 @@ endrepeat
    7,R,K
    9,J,G
    3,L,J
-
    9,K,G
    7,R,J
    5,R
@@ -417,7 +416,7 @@ endrepeat
   25,L,J,G
   21,R,U,Z
    4,L,J
-   7,L,X
+   6,L,X
   27,L,J
   15,L,U,Z
    3,R
@@ -492,4 +491,4 @@ endrepeat
   24,R,D,X
    1,R,J,G
  114,R,K,G
-ChapterTime: 1:18.064(4592)
+ChapterTime: 1:18.030(4590)
