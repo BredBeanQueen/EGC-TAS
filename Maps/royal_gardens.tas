@@ -1,5 +1,5 @@
 #by EllaTAS
-RecordCount: 5321
+RecordCount: 5605
 
 #console load EndGameContest2021/1-Submissions/xolimono 3800 -3496
 #Play lvl_f-01 37
@@ -473,18 +473,21 @@ AnalogMode,Ignore
   40
 
 #lvl_ng-03
-   1
+   2,R
+   9,L,J
+  11,L,U,X
+   6,L,J,G
+   4,R
+   1,L
+   7,R,D
+   1,X
+   7,R,J
+  10,R,Z
+  15,R,J
+   1,J
    1,R
-   1
-   1,R
-   1
-   1,R
-   1,R,J,G
-   1,R,K,G
-   2,R,J,G
-   6,R
-  13,J,G
-  19,U,X
+   1,J
+  15,U,X
    8
   18,R,X
    5
@@ -508,15 +511,15 @@ AnalogMode,Ignore
   26
    1,R,U
   11,F,345
-  10,F,333.734
+  10,F,333.449
    1,F,333.728
    2,F,327.892
    5,F,354
   65,F,9.906
-   1,F,10.33
+   1,F,10.329
   10,F,63.191
    1,F,62.151
-   8,F,41.318
+   8,F,41.32
   14,R,U,X
   26
    1,R,U
@@ -526,41 +529,39 @@ AnalogMode,Ignore
    1,F,28.435
   14,F,0.354
   38,F,347.935
-   1,F,349.27
+   1,F,349.08
   11,F,49
   11,F,108
    2,F,112.268
-   1,F,109.676
-  19,F,62.843
+   1,F,110.192
+  19,F,63.68
    1,F,57.969
   11,F,358
   11,F,298
-  19,F,291.195
+  19,F,290.861
    1,F,296.395
-  15,F,330.092
+  15,F,329.56
    1,F,331.719
-  39,F,340.007
+  39,F,339.95
    1,F,345.288
 AnalogMode,Precise
    5,F,0,0.69
 AnalogMode,Ignore
-   2
+   3
   14,U,X
  307
   40
 
 #lvl_f-01
-  69
-   1,R,J
-   4,X
-   6,R,J
-   8,R,K,G
-   6,R,J,G
+  19,R,J
+   5,R,U,X
+   9,R,J,G
+   3,R,K,G
    7,R
-   6,R,Z
+   8,R,Z
    1,R,J
-   4,R
-   3
+   5,R
+   2
    1,J
   14,R,D,X
    1,R,J
@@ -999,4 +1000,4 @@ AnalogMode,Ignore
   14,R,U,X
  135,R,D
 
-ChapterTime: 2:33.459(9027)
+ChapterTime: 2:33.153(9009)
