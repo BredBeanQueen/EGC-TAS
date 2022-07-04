@@ -1,4 +1,4 @@
-RecordCount: 2497
+RecordCount: 2604
 
 console load EndGameContest2021/1-Submissions/jadeturtle
    1
@@ -35,22 +35,19 @@ console load EndGameContest2021/1-Submissions/jadeturtle
   43
 
 #lvl_a-1
-   2
-  15,R,D,X
-   3,R,J
-   1,R,K,G
-   1,K
-   2,R,K
    2,R
-   1,R,J,G
-   9,R,D,X
+  15,R,D,C
+   1,R
+   1,R,X
+  10,R,J
+  10,R,D,X
   13,R,G
 #can go a frame faster but couldnt get good subpixels
-   3,R,J,G
-   6,J,G
+   8,R,J,G
+   5,G
+   1,J,G
    1,G
-   1,R,G
-   1,L
+   1,L,J
    8,L,U,X
   12,R
   14,R,Z
@@ -106,43 +103,46 @@ console load EndGameContest2021/1-Submissions/jadeturtle
    1,R,J
   13,R,G
    1,R,K,G
-  12,R,G
-   3,R
-   7,R,Z
+   7,R,G
+   1,R
+   8,L,D,X
    1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
   40
 
 #lvl_a-2
-   7,R
    1,R,J
-  13,R,D,X
+   9,R
+   9,R,D,X
   13,R,G
-  35,R,J,G
-   1,J,G
-   3,R,J,G
+   1,R,J,G
+   5,R,G
+   1,R,J,G
+  20,R,G
+   1,R,D,G
+   1,G
+   1,D,G
    1,R
-  14,R,U,X
-  21,R,G
+  11,R,U,X
+  26,R,G
    1,D
-  10,U,X
-  14,G
-   7,L,G
-   2,L
-   3,R
-  18,R,X
-  15,L,C
-   8,L,X
-   7,L,J,G
-   8,L
-   3,L,J
-   5,L
-   1
-   5,U,X
-  21,R,G
+  11,U,X
+  24,R,G
+   1,L
+  15,L,U,X
+  13,L,C
+  27,L,G
+   2,L,D,G
    1,D
-   6,U,X
-  31,R,G
+  11,U,X
+  16,R,G
+   7,G
    1,R
+   2,R,J,G
+   2,R,K,G
+   7,R
    7,L,Z
    1,R,J
    6,R,G
@@ -158,16 +158,17 @@ console load EndGameContest2021/1-Submissions/jadeturtle
    1,L,K
    8,R,K
    3,R
-   3,R,J,G
-   5,R
-   2
+   3,R,K,G
+   7,R
   10,R,Z
    2,L,J
    2,L
-   2,L,J
+   1,L,J
    1,L
    1,L,J
-   4,L
+   2,L
+   1,L,J
+   2,L
   14,L,Z
    1,L,J
    6,L
@@ -408,4 +409,4 @@ endrepeat
   10,L,J
  108
 
-ChapterTime: 0:53.856(3168)
+ChapterTime: 0:53.550(3150)
