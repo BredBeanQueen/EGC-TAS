@@ -1,0 +1,75 @@
+read start
+
+read Lobby/lobby_0-2 Start
+read LoadEnter Start
+read Maps/the_chamber Start
+  33,X
+
+read Lobby/lobby_2-1 Start
+read LoadEnter Start
+read Maps/torrential Start
+  33,X
+
+read Lobby/lobby_1-3 Start
+read LoadEnter Start
+read Maps/song_of_springs Start
+  33,X
+
+read Lobby/lobby_3-4 Start
+read LoadEnter Start
+read Maps/open_sea Start
+  33,X
+
+read Lobby/lobby_4-5 Start
+read LoadEnter Start
+read Maps/apotheosis Start
+  33,X
+
+read Lobby/lobby_5-7 Start
+read LoadEnter Start
+read Maps/five_cloud_jaunt Start
+  33,X
+
+read Lobby/lobby_7-6 Start
+read LoadEnter Start
+read Maps/royal_gardens Start
+  33,X
+
+read Lobby/lobby_6-8 Start
+read LoadEnter Start
+read Maps/chaos_assembly Start
+  33,X
+
+read Lobby/lobby_8-9 Start
+read LoadEnter Start
+read Maps/digital_hell Start
+  33,X
+
+read Lobby/lobby_9-10 Start
+read LoadEnter Start
+read Maps/cyclonic_firmament Start
+  33,X
+
+read Lobby/lobby_10-11 Start
+read LoadEnter Start
+read Maps/rift_fortress Start
+  33,X
+
+read Lobby/lobby_11-12 Start
+read LoadEnter Start
+read Maps/temple_on_the_earth Start
+  33,X
+
+read Lobby/lobby_12-13 Start
+read LoadEnter Start
+read Maps/banach_space Start
+  33,X
+
+read Lobby/lobby_13-14 Start
+read LoadEnter Start
+read Maps/celeste Start
+  33,X
+
+read Lobby/lobby_14-15 Start
+read LoadReenter
+read LoadJournal Start
