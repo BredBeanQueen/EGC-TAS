@@ -1,4 +1,4 @@
-RecordCount: 2604
+RecordCount: 2659
 
 console load EndGameContest2021/1-Submissions/jadeturtle
    1
@@ -351,36 +351,39 @@ console load EndGameContest2021/1-Submissions/jadeturtle
    4,G
    1,R
   10,R,Z
-   6,R,J
-   4,R
-repeat, 26
+  10,R,J
+repeat, 2
    1,R,G
    1,R
 endrepeat
-   7,R,G
+   2,R,G
+   1,R
+  13,R,G
+  16,R,G
+  19,R,G
+   1,R,D,G
+   1,R,G
+   1,R,D,G
+   1,R,G
+   1,R
    1,R,J,G
    1,R,K,G
-   5,R,K
+   6,R,K
    1,R,J,G
-   9,R,J
-  23,R,J,G
-   4,R
+   3,R,J
+  21,R,J,G
+   1,R
   14,R,U,X
-   1,R,J,G
-   2,J
-  13,R,J,G
-   5,R,G
-   1,G
-   1,R,G
-   1,D
-  10,L,Z
+   4,R,J,G
+   7,R
+   4,R,Z
    1,R,J
-   4,R
-  16,R,G
-   2,R,J,G
-   9,R,G
+  13,R,G
+   1,R,J,G
+  10,R,G
    1,R,J,G
    4,R,G
+   1,G
    1,R
   10,R,D,X
   40
@@ -391,7 +394,8 @@ endrepeat
   10,R,D,X
   17,R,G
    1,R,J,G
-  14,R,G
+   1,G
+  13,R,G
    1,R
   18,R,U,X
    5,R,C
@@ -409,4 +413,4 @@ endrepeat
   10,L,J
  108
 
-ChapterTime: 0:53.550(3150)
+ChapterTime: 0:52.972(3116)
