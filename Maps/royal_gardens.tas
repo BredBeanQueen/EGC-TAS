@@ -1,5 +1,5 @@
 #by EllaTAS
-RecordCount: 5605
+RecordCount: 5948
 
 #console load EndGameContest2021/1-Submissions/xolimono 3800 -3496
 #Play lvl_f-01 37
@@ -52,6 +52,26 @@ console load EndGameContest2021/1-Submissions/xolimono
   32,F,82.731
    1,F,84.945
   28,F,113.724
+## way more speed but idk how to use it
+#   1,F,110.924
+#  39,F,90
+#  14,R,Z
+#   1,R,J
+#   7,R,D,X
+#   1,S
+#   1,D,J
+#  34
+#   3,R
+#   9,R,J
+#  16,R,D,X
+#   1,R,J
+#  11,R,D,X
+#   2,R,J
+#   7,R,K,G
+#   2
+#   8,R,U,X
+#  40
+##
    1,F,110.924
   14,F,102.891
    5,F,101
@@ -553,47 +573,46 @@ AnalogMode,Ignore
   40
 
 #lvl_f-01
-  19,R,J
-   5,R,U,X
-   9,R,J,G
-   3,R,K,G
-   7,R
-   8,R,Z
+  10,L
+   5,R,K
+  11,R,X
+   5,R,J
+   2,R,K,G
+   5,R,Z
    1,R,J
-   5,R
-   2
-   1,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   2,R,J
-   1,R
-   5,R,K,G
-   7,R
-   2,R,J
-  14,R,D,X
-   1,R,J
-   1,R
-   1,R,K
-   1,R,J,G
+   3,R
+   1,R,K,G
    9,R
-  16,R,J
+   9,R,D,J
+   3,R
+  15,R,D,X
+   4,R,D,J
+   2,R
+   5,R,D,X
+   2,R,K,G
+   6,R
+   1,R,J
+   3,R
+   4,R,J
+  10,R,D,X
+  17,R,K,G
   50,R,X
   15,R,U,Z
    9
   14,R,D
-   3,D
-   6,R,D,X
+   2,D
+   7,R,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
   14,R,D,X
    1,R,J
    6,R
    4,R,K
-  14,R,U,X
-   1,L,J,G
-   8,R
+  13,R,U,X
+   1,L
+   1,J,G
+   7
    6,R,D,X
    1,R,J
    7,R
@@ -605,7 +624,8 @@ AnalogMode,Ignore
   18,R,D,X
   22,R,U,C
    4,R
-  18,U,X
+  14,U,X
+   4,R
   15,R,Z
    6
   17,R,D
@@ -673,15 +693,15 @@ AnalogMode,Ignore
   21,R,X
    1,J
   14,U,X
-  26,R,C
-  12,R,D,X
-   8,R,J
+  29,R,C
+  11,R,D,X
+   6,R,J
   15,R,D,X
    4,R,J
   16,R,D,X
-  22,R,J
-  14,R,D
-  14,R,Z
+  29,R,J
+  15,R,D,X
+   3,R
   22,R,U,X
   15,U,C
    5,L
@@ -977,19 +997,17 @@ AnalogMode,Ignore
    1,F,90
    4,R,X
   10,R,D,X
-   4,R,J
-  13,R,D,X
+   5,R,J
+  12,R,D,X
    1,R,J,G
-   6,R
-   1,R,K
-   4,R
+  13,R
    1,R,J
-   7,R
+   5,R
   15,R,U,X
-  25,R,D
-   6,R,Z
+  25,R
+   7,R,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
    9,R,D,X
    1,S,N
@@ -1000,4 +1018,4 @@ AnalogMode,Ignore
   14,R,U,X
  135,R,D
 
-ChapterTime: 2:33.153(9009)
+ChapterTime: 2:32.796(8988)
