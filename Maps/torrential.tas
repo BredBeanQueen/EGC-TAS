@@ -1,4 +1,4 @@
-RecordCount: 2338
+RecordCount: 2359
 
 console load EndGameContest2021/1-Submissions/Nyan
    1
@@ -258,13 +258,13 @@ console load EndGameContest2021/1-Submissions/Nyan
   14,L,J,G
    1,R,J
    7,L,J
-  12,R,Z
+  11,R,Z
    3,R,J
-   1,R
-  31,R,G
+   2,R
+  30,R,G
    1,L
-  16,R,D
-  17,D
+  17,R,D
+  16,D
   12,R,D
   10,L,D,X
   49,R,J
@@ -361,4 +361,4 @@ console load EndGameContest2021/1-Submissions/Nyan
   15,R,K,G
   17,U,X
  135
-ChapterTime: 0:52.207(3071)
+ChapterTime: 0:52.190(3070)
