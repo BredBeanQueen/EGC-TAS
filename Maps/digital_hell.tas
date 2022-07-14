@@ -1,4 +1,4 @@
-RecordCount: 3850
+RecordCount: 3871
 
 console load EndGameContest2021/1-Submissions/ABuffZucchini
    1
@@ -322,14 +322,14 @@ console load EndGameContest2021/1-Submissions/ABuffZucchini
    1,L,J
    1,J
   11,R,K,G
-   5,K
+   4,K
   14,R,J
    1,K
    1,J
   10,L,J
    1
   10,K
-   8,R
+   7,R
    5,L,D,X
    1,R,J
    1
@@ -350,9 +350,11 @@ Repeat,20
    1,L,G
    1,L
 EndRepeat
-   2,J,G
-   3
+   1,G
+   1,J,G
+   2
    2,R
+   1
    4,R,J
   36,R
    4,R,J,G
@@ -367,14 +369,12 @@ EndRepeat
   27,U,X
    7,R,D
   32,D
-   1
-   1,D
-  12,L,X
-   4,L,J
-   6,L,Z
+  18,L,X
+   5,L,Z
   22,L,J
   10,L
-   2,L
+   1,L,D
+   1,L
   18,L,U,X
    2,R
   18,U,C
@@ -383,16 +383,16 @@ EndRepeat
   15,R,D,X
   11,R,J
    5,R
-   4,R,J
-  11,R,D
+   2,R,J
+  12,R,D
    1,D
    5,R,D
   15,R,U,X
-  18,L,D
-   7,D
-   1,L,D
-   2,D
-  10,L,D
+  17,L,D
+   8,D
+   5,L,D
+   1,D
+   7,L,D
   16,L
    9,R,X
    8,R,J
@@ -697,4 +697,4 @@ EndRepeat
   19,L
   20,L,J
  150,L,U,C
-ChapterTime: 1:33.058(5474)
+ChapterTime: 1:32.990(5470)
