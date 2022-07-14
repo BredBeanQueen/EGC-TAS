@@ -1,4 +1,4 @@
-RecordCount: 3847
+RecordCount: 3850
 
 console load EndGameContest2021/1-Submissions/ABuffZucchini
    1
@@ -280,9 +280,9 @@ console load EndGameContest2021/1-Submissions/ABuffZucchini
    3,D
    4,R,D
    4,D
-   1,R,D
-   6,D
-   1,L,D
+   1,R
+   3
+   1,L
    5,L,Z
   13,R
   15,U,X
@@ -697,4 +697,4 @@ EndRepeat
   19,L
   20,L,J
  150,L,U,C
-ChapterTime: 1:33.109(5477)
+ChapterTime: 1:33.058(5474)
