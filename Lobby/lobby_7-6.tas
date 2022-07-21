@@ -8,18 +8,16 @@ console load EndGameContest2021/0-Lobbies/1-Submissions LOBBY 23
    1
    1,J
    2
-   1,L,J
-   3,L
-   1
-  14,L,D,X
+  10,L,J
+  15,L,D,X
    7,L,J
-   2,L
-  11,L,D,X
-  12,L,J
-  12,L,Z
+   5,L
+   7,L,J
+  14,L,Z
    1,L,J
    4,L
-  11,L,J
+  10,L,J
+   2,L
   15,L,D,C
    1,X
-#1.564(92)
+#1.547(91)
