@@ -1,12 +1,13 @@
 #By Kataiser
-RecordCount: 1758
+RecordCount: 1810
 
 console load EndGameContest2021/1-Submissions/Quinnigan
    1
 
 #Start
-#lvl_a01
  190
+
+#lvl_a01
    4,X
   16,J
   12,L
@@ -84,12 +85,12 @@ console load EndGameContest2021/1-Submissions/Quinnigan
    6,R
    4,R,J
   16,R,Z
-   8,R,J
-  35,R,K
-  50,U,X
+   7,R,J
+  34,R,K
+  49,U,X
   14,R,U,C
    4,R,J
-   2,J
+   2
    5,L,Z
   10,L,J
    6,L
@@ -251,4 +252,4 @@ AnalogMode,Ignore
   27,U,X
  121,L,D
 
-ChapterTime: 0:37.706(2218)
+ChapterTime: 0:37.655(2215)
