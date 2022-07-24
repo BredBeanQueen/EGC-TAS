@@ -4,9 +4,10 @@ Set,CrystallineHelper.TriggerTriggerRandomizationType,ChapterTimer
 
 #Variant 1:
 console load EndGameContest2021/1-Submissions/Toto00
+   1
 
 #Start
- 191
+ 190
 
 #lvl_start
 #RNG Manip (gross)
